@@ -3,6 +3,6 @@ public class Main {
         User ivan = new User("Ivan", 22);
         System.out.println("Hello, " +ivan.getName()+ "!");
         Dog dog = new Dog("Bobik");
-        System.out.println("Dog: " +dog.getName());
+        System.out.println("Dog: " + dog.getName());
     }
 }
